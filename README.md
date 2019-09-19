@@ -8,3 +8,4 @@ my first repository test
 Be professional.
 hotfix
 origin/maste 提交版本1.
+origin/maste 提交版本2.
