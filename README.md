@@ -7,3 +7,4 @@ my first repository test
 <<< 我也来一行
 Be professional.
 hotfix
+My Computer 更新版本1.0
