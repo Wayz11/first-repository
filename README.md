@@ -8,3 +8,5 @@ my first repository test
 Be professional.
 hotfix
 My Computer 更新版本1.0
+origin/maste 提交版本1.
+origin/maste 提交版本2.
