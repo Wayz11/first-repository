@@ -16,3 +16,5 @@ origin/master 提交版本3.
 
 master 分支修改
 master 分支修改2
+testing 分支修改
+testing 分支修改2
